@@ -1,5 +1,5 @@
 body {
-  background: #f9f8fe;
+  background: hsl(199, 30%, 69%);
 }
 
 a {
@@ -19,6 +19,7 @@ a {
   max-width: 200px;
   display: block;
   margin: 0 auto;
+  border-radius: 40px;
 }
 
 .App-footer {
